@@ -1,0 +1,10 @@
+xgboost==1.5.0
+jupyterlab==3.0.17
+kedro==0.17.4
+kedro-viz==3.13.1
+pycaret==2.3.5
+numpy==1.19.5
+xgb==1.5.0
+pandas==1.3.3
+scikit-learn==0.23.2
+lightgbm==3.2.1
